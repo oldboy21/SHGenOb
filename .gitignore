@@ -1,0 +1,16 @@
+# Ignore assembly files
+*.asm
+
+# Ignore executable files
+*.exe
+
+# Ignore shortcut files
+*.lnk
+
+# Ignore text files
+*.txt
+
+# Optionally, you might want to include these as well:
+
+# Ignore object files
+*.obj
